@@ -1,1 +1,1 @@
-This is the demo code to some of the projects I created and that I have mentioned in my resume.
+These are the data analytics I made for my company and the scripts I used to clean the data.
